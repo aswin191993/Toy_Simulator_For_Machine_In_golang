@@ -15,4 +15,4 @@
 
 ##Python code link
 
-[r2h]: http://www.openbookproject.net/py4fun/mm/simulator.html
+[click here](http://www.openbookproject.net/py4fun/mm/simulator.html)
